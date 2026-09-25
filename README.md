@@ -15,4 +15,3 @@ This repository contains lab exercises, practice programs, and coursework soluti
 - Control Flow & Conditionals (`if-else`, `switch`)
 - Loops (`for`, `while`)
 - Arrays & Strings
-- 
